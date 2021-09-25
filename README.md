@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Linux安装MySQL](https://zipblog.top/articles/2021/09/25/1632570578719.html)
+* [Nginx服务器的优化配置](https://zipblog.top/articles/2021/09/25/1632563035420.html)
 * [常用的链接集合](https://zipblog.top/articles/2021/09/22/1632282843953.html)
 * [服务器Docker的迁移](https://zipblog.top/articles/2021/09/21/1632231998888.html)
 * [中秋快乐](https://zipblog.top/articles/2021/09/21/1632223196089.html)
